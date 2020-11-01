@@ -2,13 +2,12 @@ package com.mzx.xxqganswer.utill;
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONArray;
-import com.alibaba.fastjson.JSONObject;
 import com.mzx.xxqganswer.pojo.Answer;
 import org.jsoup.Connection;
 import org.jsoup.Connection.Method;
 import org.jsoup.Connection.Response;
 import org.jsoup.Jsoup;
-import org.jsoup.Jsoup.*;
+
 
 import java.io.IOException;
 import java.util.List;
